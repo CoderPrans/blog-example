@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  margin: 25px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+pre {
+  white-space: pre-wrap;
+  text-align: justify;
+  margin: 2.3em auto;
+  width: 58em;
+  font-size: 1.3em;
+  font-family: "Roboto Slab", serif;
+}
