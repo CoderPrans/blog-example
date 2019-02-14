@@ -1,5 +1,5 @@
 blog-example
 ===========================
 
-A simple blog(example) site buit on MERN stack
+A microservice simple blog site built on MERN stack
 `under development`
